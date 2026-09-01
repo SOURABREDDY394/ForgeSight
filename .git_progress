@@ -3,3 +3,4 @@
 [2026-08-31T14:22:10] docs: add initial project architecture outline and problem statement
 [2026-09-01T09:14:22] docs: document MVTec AD research benchmarks and metrics
 [2026-09-01T11:38:45] feat(core): setup backend module hierarchy and package metadata
+[2026-09-01T14:22:10] chore: configure gitignore for python, test caches and artifacts
