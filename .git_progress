@@ -8,3 +8,4 @@
 [2026-09-02T11:38:45] feat(data): stub synthetic manufacturing component generator
 [2026-09-03T09:14:22] feat(data): implement radial lathe texture synthesis for bearings
 [2026-09-03T11:38:45] feat(data): add brushed metal texture generator for brackets
+[2026-09-03T14:22:10] feat(data): add casting pebble grain noise generator for flanges
