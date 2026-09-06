@@ -15,3 +15,4 @@
 [2026-09-05T09:14:22] feat(data): implement porosity blowhole cluster generator for cast flanges
 [2026-09-05T11:38:45] feat(data): implement solder bridge short circuit defect generator
 [2026-09-05T14:22:10] feat(data): export high-resolution test component specimens to static/samples
+[2026-09-06T09:14:22] refactor(data): optimize sample generation resolution and chamfers
