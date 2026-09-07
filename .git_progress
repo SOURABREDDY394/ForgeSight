@@ -18,3 +18,4 @@
 [2026-09-06T09:14:22] refactor(data): optimize sample generation resolution and chamfers
 [2026-09-06T11:38:45] test(data): verify synthetic sample visual contrast and channel geometry
 [2026-09-07T09:14:22] docs: add industrial defect taxonomy and ISO tolerance specifications
+[2026-09-07T11:38:45] feat(ml): stub IndustrialAnomalyDetector class and hyperparameters
