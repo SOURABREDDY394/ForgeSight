@@ -17,3 +17,4 @@
 [2026-09-05T14:22:10] feat(data): export high-resolution test component specimens to static/samples
 [2026-09-06T09:14:22] refactor(data): optimize sample generation resolution and chamfers
 [2026-09-06T11:38:45] test(data): verify synthetic sample visual contrast and channel geometry
+[2026-09-07T09:14:22] docs: add industrial defect taxonomy and ISO tolerance specifications
