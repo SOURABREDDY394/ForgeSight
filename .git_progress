@@ -19,3 +19,4 @@
 [2026-09-06T11:38:45] test(data): verify synthetic sample visual contrast and channel geometry
 [2026-09-07T09:14:22] docs: add industrial defect taxonomy and ISO tolerance specifications
 [2026-09-07T11:38:45] feat(ml): stub IndustrialAnomalyDetector class and hyperparameters
+[2026-09-07T14:22:10] feat(ml): implement multi-scale Sobel and Laplacian feature extractor
