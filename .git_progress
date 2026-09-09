@@ -22,3 +22,4 @@
 [2026-09-07T14:22:10] feat(ml): implement multi-scale Sobel and Laplacian feature extractor
 [2026-09-08T09:14:22] feat(ml): add high-pass Gaussian filter response to patch feature vector
 [2026-09-08T11:38:45] feat(ml): implement overlapping patch grid unfolding with configurable stride
+[2026-09-09T09:14:22] feat(ml): implement L2 feature vector normalization for patch embeddings
