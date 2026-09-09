@@ -23,3 +23,4 @@
 [2026-09-08T09:14:22] feat(ml): add high-pass Gaussian filter response to patch feature vector
 [2026-09-08T11:38:45] feat(ml): implement overlapping patch grid unfolding with configurable stride
 [2026-09-09T09:14:22] feat(ml): implement L2 feature vector normalization for patch embeddings
+[2026-09-09T11:38:45] feat(ml): implement memory bank greedy subsampling for normal patches
