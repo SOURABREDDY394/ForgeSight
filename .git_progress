@@ -24,3 +24,4 @@
 [2026-09-08T11:38:45] feat(ml): implement overlapping patch grid unfolding with configurable stride
 [2026-09-09T09:14:22] feat(ml): implement L2 feature vector normalization for patch embeddings
 [2026-09-09T11:38:45] feat(ml): implement memory bank greedy subsampling for normal patches
+[2026-09-09T14:22:10] feat(ml): initialize synthetic golden normal baseline for lathe parts
