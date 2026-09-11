@@ -29,3 +29,4 @@
 [2026-09-10T09:14:22] feat(ml): implement nearest-neighbor Euclidean distance computation
 [2026-09-10T11:38:45] feat(ml): add chunked dot-product acceleration for patch distances
 [2026-09-10T14:22:10] feat(ml): implement 2D anomaly grid spatial unpooling
+[2026-09-11T09:14:22] feat(ml): implement continuous Gaussian smoothing for anomaly heatmaps
