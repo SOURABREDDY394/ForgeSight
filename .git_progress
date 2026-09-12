@@ -33,3 +33,4 @@
 [2026-09-11T11:38:45] feat(ml): calibrate golden baseline bounds using non-identical neighbors
 [2026-09-12T09:14:22] feat(ml): implement top-k percentile image-level anomaly score
 [2026-09-12T11:38:45] feat(ml): add morphological opening and closing for binary defect masks
+[2026-09-12T14:22:10] feat(ml): implement contour extraction and bounding box localization
