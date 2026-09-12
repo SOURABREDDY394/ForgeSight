@@ -31,3 +31,4 @@
 [2026-09-10T14:22:10] feat(ml): implement 2D anomaly grid spatial unpooling
 [2026-09-11T09:14:22] feat(ml): implement continuous Gaussian smoothing for anomaly heatmaps
 [2026-09-11T11:38:45] feat(ml): calibrate golden baseline bounds using non-identical neighbors
+[2026-09-12T09:14:22] feat(ml): implement top-k percentile image-level anomaly score
