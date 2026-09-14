@@ -36,3 +36,4 @@
 [2026-09-12T14:22:10] feat(ml): implement contour extraction and bounding box localization
 [2026-09-13T09:14:22] feat(ml): implement defect sub-classification based on bounding box aspect ratio
 [2026-09-13T11:38:45] feat(ml): add JET false-color colormap generation for inspection overlay
+[2026-09-14T09:14:22] feat(ml): create blended HUD inspection frame with bounding box labels
