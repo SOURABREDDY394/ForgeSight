@@ -41,3 +41,4 @@
 [2026-09-14T14:22:10] perf(ml): optimize patch distance vectorized broadcasting
 [2026-09-15T09:14:22] docs: benchmark PatchCore latency and memory footprint on CPU
 [2026-09-15T11:38:45] feat(drift): initialize IndustrialDriftMonitor class and baseline buffers
+[2026-09-15T14:22:10] feat(drift): implement Laplacian variance focus and blur monitor
