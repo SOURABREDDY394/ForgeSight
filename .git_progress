@@ -39,3 +39,4 @@
 [2026-09-14T09:14:22] feat(ml): create blended HUD inspection frame with bounding box labels
 [2026-09-14T11:38:45] feat(ml): encode heatmap and mask overlays to base64 PNG data URLs
 [2026-09-14T14:22:10] perf(ml): optimize patch distance vectorized broadcasting
+[2026-09-15T09:14:22] docs: benchmark PatchCore latency and memory footprint on CPU
