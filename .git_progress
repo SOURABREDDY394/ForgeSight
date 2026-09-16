@@ -44,3 +44,4 @@
 [2026-09-15T14:22:10] feat(drift): implement Laplacian variance focus and blur monitor
 [2026-09-15T17:05:33] feat(drift): calibrate reference sharpness baseline for factory lightbox
 [2026-09-16T09:14:22] feat(drift): implement 32-bin luminance histogram Wasserstein distance check
+[2026-09-16T11:38:45] feat(drift): add chromatic LAB color space variance for alloy shift detection
