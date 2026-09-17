@@ -47,3 +47,4 @@
 [2026-09-16T11:38:45] feat(drift): add chromatic LAB color space variance for alloy shift detection
 [2026-09-17T09:14:22] feat(drift): implement rolling window anomaly score tracking
 [2026-09-17T11:38:45] feat(drift): add active drift warning synthesis and alarm state machine
+[2026-09-17T14:22:10] docs: document distribution shift triggers in realistic line environments
