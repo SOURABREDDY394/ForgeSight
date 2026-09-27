@@ -50,3 +50,4 @@
 [2026-09-17T14:22:10] docs: document distribution shift triggers in realistic line environments
 [2026-09-26T09:14:22] feat(mlops): create SafeModelRegistry class with version tracking
 [2026-09-26T11:38:45] feat(mlops): seed baseline models v1.3.0 and v1.4.2 production
+[2026-09-27T09:14:22] feat(mlops): implement candidate model promotion approval gates
