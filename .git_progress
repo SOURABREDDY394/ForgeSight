@@ -55,3 +55,4 @@
 [2026-09-27T14:22:10] feat(mlops): implement canary traffic split controller (0-100%)
 [2026-09-28T09:14:22] feat(mlops): add side-by-side model metric comparison delta calculator
 [2026-09-28T11:38:45] feat(eval): create IndustrialModelEvaluator with MVTec AD metric suite
+[2026-09-28T14:22:10] feat(eval): implement Image AUROC and Average Precision using sklearn
