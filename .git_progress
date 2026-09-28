@@ -53,3 +53,4 @@
 [2026-09-27T09:14:22] feat(mlops): implement candidate model promotion approval gates
 [2026-09-27T11:38:45] feat(mlops): add zero-downtime instant rollback mechanism
 [2026-09-27T14:22:10] feat(mlops): implement canary traffic split controller (0-100%)
+[2026-09-28T09:14:22] feat(mlops): add side-by-side model metric comparison delta calculator
