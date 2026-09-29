@@ -57,3 +57,4 @@
 [2026-09-28T11:38:45] feat(eval): create IndustrialModelEvaluator with MVTec AD metric suite
 [2026-09-28T14:22:10] feat(eval): implement Image AUROC and Average Precision using sklearn
 [2026-09-28T17:05:33] feat(eval): implement Type I false reject rate per 1,000 good parts formula
+[2026-09-29T09:14:22] feat(eval): implement Type II defect escape rate critical safety formula
