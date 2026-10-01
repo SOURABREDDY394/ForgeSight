@@ -64,3 +64,4 @@
 [2026-09-30T11:38:45] feat(storage): seed factory stations for raw casting, milling, bore and packout
 [2026-10-01T09:14:22] feat(storage): implement save_inspection with metadata JSON serialization
 [2026-10-01T11:38:45] feat(storage): implement submit_review for human triage verification
+[2026-10-01T14:22:10] feat(storage): add get_triage_queue query for borderline cases
