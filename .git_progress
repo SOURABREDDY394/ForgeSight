@@ -63,3 +63,4 @@
 [2026-09-30T09:14:22] feat(storage): setup SQLite schema for inspections, reviews and datasets
 [2026-09-30T11:38:45] feat(storage): seed factory stations for raw casting, milling, bore and packout
 [2026-10-01T09:14:22] feat(storage): implement save_inspection with metadata JSON serialization
+[2026-10-01T11:38:45] feat(storage): implement submit_review for human triage verification
