@@ -67,3 +67,4 @@
 [2026-10-01T14:22:10] feat(storage): add get_triage_queue query for borderline cases
 [2026-10-02T09:14:22] feat(storage): add dataset version tracking for continual retraining sets
 [2026-10-02T11:38:45] feat(api): initialize FastAPI application with CORS middleware
+[2026-10-03T09:14:22] feat(api): implement /api/inspect endpoint with multi-part form handling
