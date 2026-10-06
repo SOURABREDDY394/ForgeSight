@@ -76,3 +76,4 @@
 [2026-10-04T14:22:10] feat(api): mount static files directory and root file response
 [2026-10-05T09:14:22] feat(edge): implement FactoryEdgeClient with simulated conveyor loop
 [2026-10-05T11:38:45] feat(edge): add circular offline buffering queue for network drops
+[2026-10-06T09:14:22] test: add comprehensive pytest suite for anomaly detector and memory bank
