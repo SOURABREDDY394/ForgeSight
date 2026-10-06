@@ -78,3 +78,4 @@
 [2026-10-05T11:38:45] feat(edge): add circular offline buffering queue for network drops
 [2026-10-06T09:14:22] test: add comprehensive pytest suite for anomaly detector and memory bank
 [2026-10-06T11:38:45] test: add unit tests for drift monitor blur and lighting alerts
+[2026-10-06T14:22:10] test: add tests for model registry safety gates and rollback protocol
