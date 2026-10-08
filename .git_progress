@@ -83,3 +83,4 @@
 [2026-10-07T11:38:45] test: add tests for SQLite data manager triage review workflow
 [2026-10-08T09:14:22] feat(ui): setup index.html with tactile kraft and photocopy paper theme
 [2026-10-08T11:38:45] feat(ui): add ransom-note typography header with custom tilts and clippings
+[2026-10-08T14:22:10] feat(ui): add self-drawing SVG highlights and strike-through annotations
